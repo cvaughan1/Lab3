@@ -38,8 +38,7 @@ public class Lab3Powers {
 				String message = i + "\t" + numberSq + "\t" + numberCubed;
 
 				System.out.println(message);
-				System.out.println();
-
+				
 			}
 
 			// Continue block
